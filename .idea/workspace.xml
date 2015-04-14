@@ -31,32 +31,58 @@
     <favorites_list name="theano" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="BasicFunction.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myLearnPython/scipy/BasicFunction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.3880926" vertical-offset="0" max-vertical-offset="907">
-              <folding>
-                <element signature="e#78#96#0" expanded="true" />
-                <marker date="1421634707148" expanded="true" signature="191:215" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpecialFunciton.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myLearnPython/scipy/SpecialFunciton.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
-              <folding>
-                <marker date="1421634239802" expanded="true" signature="52:96" placeholder="import ..." />
-                <marker date="1421634239802" expanded="true" signature="144:260" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="10MinutesToPandas.py" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/myLearnPython/pandas/10MinutesToPandas.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="8" column="7" selection-start="169" selection-end="169" vertical-scroll-proportion="0.3705263" vertical-offset="0" max-vertical-offset="475">
+                  <folding>
+                    <element signature="e#52#71#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="convolutional_mlp.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/convolutional_mlp.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="64" column="0" selection-start="2191" selection-end="2191" vertical-scroll-proportion="0.0" vertical-offset="1056" max-vertical-offset="6798">
+                  <folding>
+                    <element signature="e#928#942#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="logistic_sgd.py" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_sgd.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="146" column="4" selection-start="5402" selection-end="5402" vertical-scroll-proportion="0.0" vertical-offset="3212" max-vertical-offset="8272">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="CNN.py" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Test/CNN.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.09263158" vertical-offset="0" max-vertical-offset="506">
+                  <folding>
+                    <element signature="e#52#61#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -91,14 +117,17 @@
         <option value="$PROJECT_DIR$/myLearnPython/scipy/BasicFuntion.py" />
         <option value="$PROJECT_DIR$/myLearnPython/scipy/SpecialFunciton.py" />
         <option value="$PROJECT_DIR$/myLearnPython/scipy/BasicFunction.py" />
+        <option value="$PROJECT_DIR$/myLearnPython/pandas/10MinutesToPandas.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/Test/CNN.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="807" />
-    <option name="y" value="1" />
-    <option name="width" value="1400" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -171,6 +200,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="myLearnTheano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theano-in-Action-to-implement-Deep-Learning-Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="myLearnPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -207,7 +250,53 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="pandas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theano-in-Action-to-implement-Deep-Learning-Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myLearnPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="numpy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theano-in-Action-to-implement-Deep-Learning-Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Theano-in-Action-to-implement-Deep-Learning-Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeepLearningTutorials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,40 +328,21 @@
       <recent name="E:\postgraduateLearning\Plan-Action\需要的东西\Learn\MachineLearning\theano\myLearnPython\numpy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SpecialFunciton">
-    <configuration default="false" name="convolutional_mlp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10MinutesToPandas">
+    <configuration default="false" name="10MinutesToPandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningTutorials/code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnPython/pandas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="theano" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningTutorials/code/convolutional_mlp.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TheBasics" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnPython/numpy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="theano" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnPython/numpy/TheBasics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnPython/pandas/10MinutesToPandas.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -311,6 +381,44 @@
       <module name="theano" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnPython/numpy/TricksAndTips.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CopyAndViews" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myLearnPython/numpy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="theano" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myLearnPython/numpy/CopyAndViews.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="theano" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/CNN.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -464,19 +572,43 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="5">
+    <configuration default="false" name="convolutional_mlp" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningTutorials/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="theano" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningTutorials/code/convolutional_mlp.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.SpecialFunciton" />
       <item index="1" class="java.lang.String" itemvalue="Python.convolutional_mlp" />
-      <item index="2" class="java.lang.String" itemvalue="Python.TheBasics" />
+      <item index="2" class="java.lang.String" itemvalue="Python.10MinutesToPandas" />
       <item index="3" class="java.lang.String" itemvalue="Python.LinearAlgebra" />
       <item index="4" class="java.lang.String" itemvalue="Python.TricksAndTips" />
+      <item index="5" class="java.lang.String" itemvalue="Python.CopyAndViews" />
+      <item index="6" class="java.lang.String" itemvalue="Python.CNN" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.TricksAndTips" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LinearAlgebra" />
-        <item index="2" class="java.lang.String" itemvalue="Python.TheBasics" />
-        <item index="3" class="java.lang.String" itemvalue="Python.convolutional_mlp" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.10MinutesToPandas" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CNN" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CopyAndViews" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TricksAndTips" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LinearAlgebra" />
       </list>
     </recent_temporary>
   </component>
@@ -490,27 +622,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="807" y="1" width="1400" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17413294" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.153125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24" sideWeight="0.4997281" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.092929296" sideWeight="0.5002719" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2280514" sideWeight="0.4997281" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47157896" sideWeight="0.4997281" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -541,11 +673,6 @@
           <url>file://$PROJECT_DIR$/DeepLearningTutorials/code/rbm.py</url>
           <line>334</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_sgd.py</url>
-          <line>158</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/DeepLearningTutorials/code/rbm.py</url>
@@ -642,43 +769,31 @@
           <line>389</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_sgd.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/DeepLearningTutorials/code/convolutional_mlp.py</url>
+          <line>298</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/DeepLearningTutorials/code/convolutional_mlp.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="25" />
+      <option name="time" value="28" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/rbm.py">
+    <entry file="file://$PROJECT_DIR$/Test/CNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="224" column="39" selection-start="9857" selection-end="9857" vertical-scroll-proportion="0.0" vertical-offset="6496" max-vertical-offset="10875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myLearnTheano/RandomNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="24" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1566" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/DBN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="40" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="754" max-vertical-offset="11977">
+        <state line="9" column="25" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="506">
           <folding>
-            <element signature="e#313#760#1" expanded="false" />
-            <element signature="e#893#5434#0" expanded="false" />
-            <element signature="e#5509#7443#0" expanded="false" />
-            <element signature="e#5509#6129#1" expanded="false" />
-            <element signature="e#7530#10620#0" expanded="false" />
-            <element signature="e#10792#16647#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_sgd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="215" column="0" selection-start="8458" selection-end="8458" vertical-scroll-proportion="0.0" vertical-offset="6235" max-vertical-offset="11136">
-          <folding>
-            <element signature="e#1227#5395#0" expanded="false" />
-            <element signature="e#5426#8473#0" expanded="false" />
+            <element signature="e#52#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -737,10 +852,7 @@
     <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_sgd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11136">
-          <folding>
-            <element signature="e#1227#5395#0" expanded="false" />
-            <element signature="e#5426#8473#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -846,24 +958,9 @@
         <state line="54" column="0" selection-start="1801" selection-end="1801" vertical-scroll-proportion="0.35643566" vertical-offset="0" max-vertical-offset="606" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_sgd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="249" column="0" selection-start="9651" selection-end="9651" vertical-scroll-proportion="0.0" vertical-offset="1726" max-vertical-offset="5112">
-          <folding>
-            <element signature="e#1227#5395#0" expanded="false" />
-            <element signature="e#5426#8473#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/Algebra.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/convolutional_mlp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="18" selection-start="4692" selection-end="4692" vertical-scroll-proportion="0.5148515" vertical-offset="1296" max-vertical-offset="6000" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnTheano/CopyRandomState.py">
@@ -923,11 +1020,6 @@
         <state line="11" column="14" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="858" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/CopyAndViews.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="14" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1078" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="176" />
@@ -940,27 +1032,61 @@
     </entry>
     <entry file="file://E:/Python27/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1658" column="0" selection-start="57560" selection-end="57560" vertical-scroll-proportion="0.33333334" vertical-offset="35721" max-vertical-offset="57882">
-          <folding />
-        </state>
+        <state line="1658" column="0" selection-start="57560" selection-end="57560" vertical-scroll-proportion="0.33333334" vertical-offset="35721" max-vertical-offset="57882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnPython/scipy/SpecialFunciton.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
-          <folding>
-            <marker date="1421634239802" expanded="true" signature="52:96" placeholder="import ..." />
-            <marker date="1421634239802" expanded="true" signature="144:260" placeholder="..." />
-          </folding>
-        </state>
+        <state line="14" column="0" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myLearnPython/scipy/BasicFunction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.3880926" vertical-offset="0" max-vertical-offset="907">
+        <state line="16" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="484" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myLearnPython/numpy/CopyAndViews.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="14" selection-start="140" selection-end="140" vertical-scroll-proportion="0.036065575" vertical-offset="198" max-vertical-offset="1078" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/logistic_sgd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="4" selection-start="5402" selection-end="5402" vertical-scroll-proportion="0.0" vertical-offset="771" max-vertical-offset="6204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python27/Lib/site-packages/theano/gof/cmodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1970" column="0" selection-start="84453" selection-end="84453" vertical-scroll-proportion="0.7755444" vertical-offset="42591" max-vertical-offset="43494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/CNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.09263158" vertical-offset="0" max-vertical-offset="506">
           <folding>
-            <element signature="e#78#96#0" expanded="true" />
-            <marker date="1421634707148" expanded="true" signature="191:215" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <element signature="e#52#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningTutorials/code/convolutional_mlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="2191" selection-end="2191" vertical-scroll-proportion="0.0" vertical-offset="1056" max-vertical-offset="6798">
+          <folding>
+            <element signature="e#928#942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myLearnPython/pandas/10MinutesToPandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="169" selection-end="169" vertical-scroll-proportion="0.3705263" vertical-offset="0" max-vertical-offset="475">
+          <folding>
+            <element signature="e#52#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
